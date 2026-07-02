@@ -8,35 +8,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&height=60&lines=%3E+Initializing+Developer+Profile...;%3E+Python+Developer;%3E+Backend+Engineer;%3E+AI%2FML+Explorer;%3E+Ethical+Hacker;%3E+Building+NullOps" alt="Typing SVG" />
 </p>
-## About
+## Initializing Developer...
 
-``` python
-class Developer:
-    name="Shreyansh Shrivas"
-    username="shreyansh-py3"
-    roles=[
-      "Python Developer","Backend Developer",
-      "AI/ML Enthusiast","Web Developer","Ethical Hacker"
-    ]
-    interests=[
-      "Backend Engineering","Artificial Intelligence",
-      "Machine Learning","Developer Tools",
-      "Automation","Cybersecurity","Open Source","Linux"
-    ]
-    goal="Become a Junior AI/ML Engineer while mastering backend development."
-```
+```text
+> Loading profile...
 
-## Terminal
+██████████████████████████ 100%
 
-``` console
-$ whoami
+NAME      :: Shreyansh Shrivas
+USERNAME  :: shreyansh-py3
+ROLE      :: Backend Developer
+STACK     :: Python • FastAPI • Django • Flask • Node.js
+DATABASE  :: MongoDB • MySQL • SQLite
+AI/ML     :: NumPy • Pandas • Matplotlib • Scikit-Learn
+OS        :: Linux
+EDITOR    :: VS Code
 
-Name      : Shreyansh Shrivas
-Role      : Backend Developer
-Location  : India
-Editor    : VS Code
-OS        : Linux
-Status    : Building cool things...
+STATUS    :: Building NullOps...
 ```
 
 # 💻 Tech Stack
