@@ -8,7 +8,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=950&height=60&lines=%3E+Initializing+Developer+Profile...;%3E+Python+Developer;%3E+Backend+Engineer;%3E+AI%2FML+Explorer;%3E+Ethical+Hacker;%3E+Building+NullOps" alt="Typing SVG" />
 </p>
+
 ## Initializing Developer...
+
 
 ```text
 > Loading profile...
